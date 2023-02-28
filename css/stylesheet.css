@@ -34,13 +34,13 @@
   /* mouse over link */
   a:hover {
     color: #2718cf;
-    background-color: white;
+    background-color: lightgray;
     padding: 2px;
   }
   
   /* selected link */
   a:active {
-    color: white;
+    color: lightgray;
   }
   
   main {
